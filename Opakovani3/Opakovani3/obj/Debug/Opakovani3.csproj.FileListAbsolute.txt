@@ -1,0 +1,11 @@
+D:\prgProjects\Opakovani3\Opakovani3\bin\Debug\Opakovani3.exe.config
+D:\prgProjects\Opakovani3\Opakovani3\bin\Debug\Opakovani3.exe
+D:\prgProjects\Opakovani3\Opakovani3\bin\Debug\Opakovani3.pdb
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.csproj.AssemblyReference.cache
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.Properties.Resources.resources
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.csproj.GenerateResource.cache
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.csproj.CoreCompileInputs.cache
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.exe
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.pdb
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.Form1.resources
+D:\prgProjects\Opakovani3\Opakovani3\obj\Debug\Opakovani3.Form2.resources
