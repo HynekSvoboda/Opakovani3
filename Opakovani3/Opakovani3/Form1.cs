@@ -127,7 +127,7 @@ namespace Opakovani3
                 string[] pole = s.Split(';');
                 if (Convert.ToInt32(pole[1]) < 3)
                 {
-                    seznam[i] +=" "+ Vek(s, out vek,ref soucet);
+                    seznam[i] +=" ;"+ Vek(s, out vek,ref soucet);
                     zapis.WriteLine(seznam[i]);
                 }
                 i++;
